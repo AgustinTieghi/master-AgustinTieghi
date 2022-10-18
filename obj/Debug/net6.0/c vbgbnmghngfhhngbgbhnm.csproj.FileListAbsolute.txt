@@ -1,0 +1,22 @@
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.exe
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.deps.json
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.runtimeconfig.json
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.pdb
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.AssemblyInfo.cs
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.csproj.CopyComplete
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\refint\c vbgbnmghngfhhngbgbhnm.dll
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.pdb
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\c vbgbnmghngfhhngbgbhnm.genruntimeconfig.cache
+C:\Users\agust\Desktop\CoderHouse\c vbgbnmghngfhhngbgbhnm\c vbgbnmghngfhhngbgbhnm\obj\Debug\net6.0\ref\c vbgbnmghngfhhngbgbhnm.dll
